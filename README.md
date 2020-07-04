@@ -7,8 +7,11 @@ A JavaScript DrumKit
 *First time using " new Audio " constructor.
 
 ## Built with
+
 *JavaScript
+
 *HTML
+
 *CSS
 
 *Based on one of the projects from Angela Yu's Udemy Web Development Bootcamp
